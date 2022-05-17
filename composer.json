@@ -1,15 +1,15 @@
 {
-  "name": "attogram/games",
-  "description": "Your own games website, filled with open source goodness!",
+  "name": "CycloKid/fosiper",
+  "description": "Your own website, filled with open source goodness!",
   "type": "project",
   "license": "MIT",
   "require": {
     "php": "^7.0"
   },
-  "homepage": "https://github.com/attogram/games",
+  "homepage": "https://github.com/CycloKid/fosiper",
   "support": {
-    "docs": "https://fosiper.com/games/",
-    "issues": "https://www.patreon.com/attogram"
+    "docs": "https://fosiper.com",
+    "issues": "https://www.google.com"
   },
   "authors": [{
     "name": "Attogram Project",
